@@ -55,25 +55,20 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haripriya91&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haripriya91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya91&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 ---
 
-## 🏢 Experience Highlights
+## 👩‍💻 About Me
 
-| Period | Role | Company |
-|--------|------|---------|
-| Jun–Nov 2023 | Senior Software Developer | Stuttgart, Germany |
-| Feb 2018–May 2023 | Software Developer | Trivandrum, India |
-| Jan 2017–Jan 2018 | Software Engineer | Trivandrum, India |
-
-✅ 5+ years building enterprise-grade Angular & React applications  
-✅ AWS Lambda, Docker, CI/CD, GitHub Actions  
-✅ Agile/Scrum, cross-functional international teams  
-✅ Currently upskilling in AI/LLM integration & NestJS
+- 🔭 Currently building **AI Knowledge Workspace** — NestJS · Angular · AWS · LLM
+- 💼 5+ years in Fullstack development across Angular, React, Node.js & AWS
+- 🌱 Currently learning **NestJS · LLM Integration · PostgreSQL · German B1**
+- 📍 Based in **Munich, Germany** — open to remote & hybrid EU roles
+- 🤝 Open to **Frontend, Fullstack, Cloud & Consultant** roles
 
 ---
 
