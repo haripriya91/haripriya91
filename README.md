@@ -53,13 +53,6 @@
 - 🤝 Open to **Frontend, Fullstack, Cloud & Consultant** roles
 
 ---
-## 🚀 What I'm Building Now
-
-> **[AI Knowledge Workspace](https://github.com/haripriya91/ai-knowledge-workspace)** — An AI-powered personal knowledge platform where users store learning materials (PDFs, links, notes) and interact with them using AI: summaries, Q&A, flashcards, and quizzes.
->
-> `Angular` `NestJS` `PostgreSQL` `MongoDB` `Docker` `AWS S3` `JWT Auth` `LLM Integration`
-
----
 
 ## 🎓 Certifications
 
